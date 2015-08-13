@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* Print CSS for MY.Resume from Frittt Templates ( Frittt.com ) */
+
+body { background:#fff !important; color:#000 !important;}
+a { color:#000 !important; text-decoration:underline; }
+
+.heading {font-size: 5.125em;margin:0; }
+p { color:#000 !important; }
+.page { padding:0; height:auto; }
+.wrapper .container { margin-top:0; }
+.section { padding:0; }
+.section-title { color:#000;}
+
+.about-img, .section-twitter { display:none !important; visibility:hidden; }
